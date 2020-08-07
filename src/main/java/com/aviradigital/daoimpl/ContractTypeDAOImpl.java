@@ -70,4 +70,6 @@ public class ContractTypeDAOImpl extends AbstractCommonDAO implements ContractTy
 		});
 	}
 
+	
+	// added to check git
 }
